@@ -56,7 +56,6 @@ The project incorporates custom DAX measures and calculated columns for advanced
 * **Material & Environmental Impact:** Deep dive into specific waste streams (e.g., paper, plastic, glass) and their corresponding decomposition footprints and processing requirements[cite: 1].
 
 ---
-<img width="4000" height="2281" alt="PBI PROJECT RECYCLE ohad gutman-page-002" src="https://github.com/user-attachments/assets/5748a5e1-2623-40c5-9f82-9b2335200f33" />
 
 
    ```bash
