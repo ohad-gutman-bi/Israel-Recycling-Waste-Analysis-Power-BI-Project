@@ -1,18 +1,13 @@
 <img width="1983" height="793" alt="ChatGPT Image Oct 1, 2026, 07_52_18 PM" src="https://github.com/user-attachments/assets/cf9e2fcc-f1f2-48d9-9a25-eb193de1358c" />
-<p align="center">
-  <img src="./Docs/dashboard_main.png" alt="Israel-Recycling-Waste-Analysis-Power-BI-Project" width="100%" style="border-radius: 8px;">
-</p>
+
 
 # Israel-Recycling-Waste-Analysis-Power-BI-Project
-This repository features an end-to-end BI project analyzing municipal recycling trends in Israel. It transforms raw multi-year data using Power Query ETL, structures it into a dimensional star schema model, and delivers interactive Power BI dashboards driven by advanced DAX metrics for strategic decision-making.
+
+This repository features an end-to-end BI project analyzing municipal recycling trends in Israel and compared to EU Countries<img width="1227" height="727" alt="PBI PROJECT RECYCLE ohad gutman-page-004" src="https://github.com/user-attachments/assets/85c6ee95-de2f-4b83-b27c-36c7f5e66261" />
+. It transforms raw multi-year data using Power Query ETL, structures it into a dimensional star schema model, and delivers interactive Power BI dashboards driven by advanced DAX metrics for strategic decision-making.
 ---
-#  Israel Recycling & Waste Analysis — Power BI Project
 
-##  Overview
-This repository contains an end-to-end Business Intelligence project analyzing recycling and waste management trends across Israeli municipalities and local authorities. 
-
-The project was developed as a **Final Capstone Project for the BI Developer Course at abra**. 
-
+# objective
 The main objective was to take raw, unorganized Excel datasets containing multi-year recycling records, perform comprehensive data cleaning and transformations using **Power Query**, design a robust dimensional data model, and craft interactive **Power BI Dashboards** powered by **DAX metrics** for strategic decision-making.
 
 ---
@@ -25,7 +20,7 @@ The main objective was to take raw, unorganized Excel datasets containing multi-
 
 ---
 
-## 🏗️ Data Architecture & Modeling
+##  Data Architecture & Modeling
 The project follows a **Star Schema** architectural pattern to ensure optimal DAX performance and streamlined report filtering.
 
 ### Data Model Components:
@@ -61,7 +56,8 @@ The project incorporates custom DAX measures and calculated columns for advanced
 * **Material & Environmental Impact:** Deep dive into specific waste streams (e.g., paper, plastic, glass) and their corresponding decomposition footprints and processing requirements[cite: 1].
 
 ---
+<img width="4000" height="2281" alt="PBI PROJECT RECYCLE ohad gutman-page-002" src="https://github.com/user-attachments/assets/5748a5e1-2623-40c5-9f82-9b2335200f33" />
 
-1. Clone this repository:
+
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Israel-Recycling-BI-Analysis.git](https://github.com/YOUR_USERNAME/Israel-Recycling-BI-Analysis.git)
