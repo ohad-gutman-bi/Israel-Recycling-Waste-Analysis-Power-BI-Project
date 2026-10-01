@@ -3,7 +3,7 @@
 
 # Israel-Recycling-Waste-Analysis-Power-BI-Project
 
-This repository features an end-to-end BI project analyzing municipal recycling trends in Israel and compared to EU Countries<img width="1227" height="727" alt="PBI PROJECT RECYCLE ohad gutman-page-004" src="https://github.com/user-attachments/assets/85c6ee95-de2f-4b83-b27c-36c7f5e66261" />
+This repository features an end-to-end BI project analyzing municipal recycling trends in Israel and compared to EU Countries
 . It transforms raw multi-year data using Power Query ETL, structures it into a dimensional star schema model, and delivers interactive Power BI dashboards driven by advanced DAX metrics for strategic decision-making.
 ---
 
@@ -55,6 +55,7 @@ The project incorporates custom DAX measures and calculated columns for advanced
 * **Geographic & Municipal Insights:** Regional breakdowns highlighting performance differences across local councils, districts, and population clusters[cite: 1].
 * **Material & Environmental Impact:** Deep dive into specific waste streams (e.g., paper, plastic, glass) and their corresponding decomposition footprints and processing requirements[cite: 1].
 
+<img width="1227" height="727" alt="PBI PROJECT RECYCLE ohad gutman-page-004" src="https://github.com/user-attachments/assets/85c6ee95-de2f-4b83-b27c-36c7f5e66261" />
 ---
 
 
